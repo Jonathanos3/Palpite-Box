@@ -1,0 +1,6 @@
+.next
+node_modules
+.env.envelopment
+credentials.json
+.env.local
+.gitattributes
