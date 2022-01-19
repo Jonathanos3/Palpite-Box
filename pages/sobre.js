@@ -9,12 +9,16 @@ const Sobre = () => {
       <Head>
         <title>Sobre - PapiteBox</title>
       </Head>
-      <h1> Sobre</h1>
       <div>
         <Link href='/'>
-          <a>Home</a>
+          <img className=' shadow-md p-2 object-fill h-10' src='/home.png' />
         </Link>
       </div>
+      <p className='mt-12 text-center'>
+        O restaurante X, foi inaugurado em ..., com boa culinária veio para revolucionar os pratos da cidade.<br />
+        Chefes de alto padrão, buscamos sempre o melhor para atendê-los.
+      </p><br />
+
 
     </div>
 
