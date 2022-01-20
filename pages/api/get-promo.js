@@ -25,7 +25,7 @@ export default async (req, res) => {
 
   } catch (err) {
     res.end(JSON.stringify({
-      showCoupon: FALSE,
+      showCoupon: 'FALSE',
       message: ''
     }))
   }
