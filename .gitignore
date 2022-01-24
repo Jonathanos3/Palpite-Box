@@ -1,5 +1,5 @@
 .next
 node_modules
-.env.envelopment
+.env.local
 credentials.json
 .gitattributes

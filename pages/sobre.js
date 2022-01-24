@@ -16,10 +16,8 @@ const Sobre = () => {
       </div>
       <p className='mt-12 text-center'>
         O restaurante X, foi inaugurado em ..., com boa culinária veio para revolucionar os pratos da cidade.<br />
-        Chefes de alto padrão, buscamos sempre o melhor para atendê-los.
+        Chefes de alto padrão, buscando sempre o melhor para atendê-los.
       </p><br />
-
-
     </div>
 
   )
