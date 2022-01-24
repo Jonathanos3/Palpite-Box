@@ -39,6 +39,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/pesquisa.js"
+    ],
+    "/sobre": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/sobre.js"
     ]
   },
   "ampFirstPages": []
