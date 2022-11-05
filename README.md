@@ -22,6 +22,10 @@ Criamos o layout usando o figma. Você pode encontrar o arquivo [Aqui]().
 
 Este projeto pode ser colocado em produção utilizando o Vercel (sem configurações extras).
 
+SHEET_CLIENT_EMAIL=client email do service credential
+SHEET_PRIVATE_KEY=private key do service credential - lembrar de substituir \n por quebras de linha e de codificar em base 64
+SHEET_DOC_ID=id da planilha
+
 ## Construído com:
 
 * [NextJS](https://nextjs.org/) -  The React framework.
