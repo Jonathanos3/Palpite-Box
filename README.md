@@ -1,9 +1,10 @@
+PALPITEBOX - SEMANA FULLSTACK MASTER
+
 Este projeto foi construído durante a Semana Fullstack Master do DevPleno . Uma versão online deste projeto pode ser encontrada em: https://palpite-box-ten-omega.vercel.app/
 
 
 ## Início
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Pré-requisitos:
 
@@ -26,7 +27,7 @@ Este projeto pode ser colocado em produção utilizando o Vercel (sem configura�
 * [NextJS](https://nextjs.org/) -  The React framework.
 * [TailwindCSS](https://tailwindcss.com/) - Utillity-first CSS framework for rapidly building custom designs.
 * [Figma](https://figma.com/) - Online prototyping tool.
-* [PlanilhasGoogle](https://purgecss.com/) - Remove unused CSS.
+* [PlanilhasGoogle](https://drive.google.com/) - Planilhas online do google.
 
 ## Authors
 
